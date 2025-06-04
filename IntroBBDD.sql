@@ -4,7 +4,7 @@ SELECT
     flight_no,
     status,
 FROM flights 
-WHERE status = 'On Time’;
+WHERE status = 'On Time';
 
 -- Ejercicio 2
 SELECT *
